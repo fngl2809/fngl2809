@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since the first time I wrote hello world<br>🎓 Currently studying at Universitas Darussalam Gontor<br>📚 I'm currently learning Data Science, JavaScript, and Web Development<br>🎯 Goals: To turn ideas into something real 🎲 Fun fact: I talk to my code like it can actually hear me 😅</p>
+<p align="center">✨ Creating bugs since the first time I wrote hello world<br>🎓 Currently studying at Universitas Darussalam Gontor<br>📚 I'm currently learning Data Science, JavaScript, and Web Development<br>🎯 Goals: To turn ideas into something real<br> 🎲 Fun fact: I talk to my code like it can actually hear me 😅</p>
 
 ###
 
